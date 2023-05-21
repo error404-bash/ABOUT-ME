@@ -1,4 +1,4 @@
-# ABOUT ME .MD
+# ABOUT ME
 # 💫 About Me:
 🔭 I’m currently working on "collage website"<br>🌱 I’m currently learning java<br>💬 Ask me about anything<br>⚡ Fun fact I am collage student
 
